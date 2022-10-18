@@ -1,7 +1,7 @@
 # WEBSITE
 
 Hello this is an awesome website
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2F942892352869428&psig=AOvVaw08vZe1NNywVkVRSbbKWyoH&ust=1666216808994000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIilp7rj6voCFQAAAAAdAAAAABAD "Logo Title Text 1")
+![There's not a photo](perrito.jpg "This a dog")
 
 ## Installation
 
